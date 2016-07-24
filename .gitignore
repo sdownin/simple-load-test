@@ -2,3 +2,6 @@
 *.png
 *.jpg
 *.jpeg
+
+# Google Drive
+desktop.ini
